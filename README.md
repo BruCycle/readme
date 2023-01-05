@@ -4,33 +4,82 @@
 
 What could make biking more fun, you ask? Beer, of course! 
 
-Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to track your biking exercise data via Strava, and the number of beers that you have consumed during said exercise. You will accumulate beers in your Beer Bank based on the exercise you've completed. #this is a work in progress. make it fun, good looking!!! :poop:
+Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to alleviate those symptoms. you will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have consumed during said exercise. You will accumulate beers in your Beer Bank based on the exercise you've completed. 
 
 :beer: [Project Overview](#project-overview)
 <br>
 :beer: [Planning](#planning)
 <br>
-:beer: [Contributors](#contributors)
-<br>
 :beer: [Tech Stack](#tech-stack)
 <br>
 :beer: [Setup](#setup)
+<br>
+:beer: [Contributors](#contributors)
+<br>
 
 
 ### Project Overview
 
 ### Planning
 screenshots of db's, and our miro, clean up miro before inserting pictures and turning in final project. 
-### Contributors
-Sean, Naomi, James, Kristen, Ashley
-potentially have links to their github, linked in?? whatever we agree on? 
-
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 <br>
 ![ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=red)
 <br>
-logos for programs we used, see: readme lesson from tuesday. 
+![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
+<br>
+![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
+<br> 
 
 ### Setup
 how someone would run this on their local, what steps to run, any gem updates?
+
+### Contributors
+
+<table>
+  <tr>
+    <td>Sean Culliton</td>
+    <td>Ashley Turner</td>
+    <td>Kristen Nestler</td>
+    <td>James White</td>
+    <td>Naomi Yocum</td>
+    <td>Mike Dao<br>(Project Manager)</td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/108320490?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/105073232?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/103780823?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/108167041?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/102825498?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/3011748?s=120&v=4"></td>
+  </tr>
+ 
+  <tr>
+    <td>
+      <a href="https://github.com/smculliton">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/seanculliton/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/ashuhleyt">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/ashuhleyt/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/knestler">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/kristen-nestler/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/James-E-White">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/james-ed-wh/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/naomiyocum">GitHub</a><br>
+      <a href="https://www.linkedin.com/in/naomiyocum/">LinkedIn</a>
+    </td>
+    <td>
+      <a href="https://github.com/mikedao">GitHub</a><br>
+    </td>
+  </tr>
+</table>
+
+
