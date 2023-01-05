@@ -25,6 +25,10 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 
 ### Project Overview
 
+[backend repo](https://github.com/BruCycle/brucycle_be)
+<br>
+[frontend repo](https://github.com/BruCycle/brucycle_fe)
+
 ### Planning
 screenshots of db's, and our miro, clean up miro before inserting pictures and turning in final project. 
 ### Tech Stack
@@ -38,8 +42,16 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
 <br> 
 
 ### Setup
-how someone would run this on their local, what steps to run, any gem updates?
+Fork and clone this repo. 
+<br>
+Open with text editor of choice. 
+<br>
+Run the following command in your CLI:
+```bash
+$ bundle install
+```
 
+^^ <b>is this necessary?</b>
 ### Contributors
 
 <table>
