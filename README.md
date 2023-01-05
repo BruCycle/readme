@@ -1,8 +1,13 @@
 <h1 align="center"> :bike: BrüCycle :bike: </h1>
 <h2 align="center">:beers: Burn It To Earn It. :beers:</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/VEyS5blLoyMCQ1HvOb/giphy.gif">
+  <br>
+  <h4> What could make biking even more fun, you ask? Beer, of course!</h4>
+</div>
 
-
-What could make biking more fun, you ask? Beer, of course! 
+<br>
+<br>
 
 Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to alleviate those symptoms. you will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have consumed during said exercise. You will accumulate beers in your Beer Bank based on the exercise you've completed. 
 
