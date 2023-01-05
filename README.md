@@ -18,7 +18,7 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 <br>
 :beer: [Tech Stack](#tech-stack)
 <br>
-:beer: [Setup](#setup)
+:beer: [Deployment](#deployment)
 <br>
 :beer: [Contributors](#contributors)
 <br>
@@ -42,17 +42,9 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
 <br> 
 
-### Setup
-Fork and clone this repo. 
-<br>
-Open with text editor of choice. 
-<br>
-Run the following command in your CLI:
-```bash
-$ bundle install
-```
+### Deployment
+[Link To Heroku Deployment Lives Here]("")
 
-^^ <b>is this necessary?</b>
 ### Contributors
 
 <table>
