@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to alleviate those symptoms. you will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have consumed during said exercise. You will accumulate beers in your Beer Bank based on the exercise you've completed. 
+Ever had one of those days where an all day brewery crawl leaves you feeling bloated, gassy, and deeply unwell? BrüCycle was developed as a way for you to alleviate those symptoms. You will track your biking exercise data via [Strava](https://www.strava.com), and the number of beers that you have consumed during said exercise. You will accumulate beers in your Beer Bank based on the exercise you've completed. 
 
 :beer: [Project Overview](#project-overview)
 <br>
