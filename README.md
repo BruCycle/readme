@@ -42,6 +42,8 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
 <br> 
 
+perhaps include versions of these we are using ierails 5.7.2 etc. 
+
 ### Deployment
 [Link To Heroku Deployment Lives Here]("")
 
