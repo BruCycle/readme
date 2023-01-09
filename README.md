@@ -45,18 +45,18 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
 perhaps include versions of these we are using ierails 5.7.2 etc. 
 
 ### Deployment
-[Link To Heroku Deployment Lives Here]("")
+<a href="https://brucycle-fe.herokuapp.com/">Heroku Application</a><br>
 
 ### Contributors
 
 <table>
   <tr>
-    <td>Sean Culliton</td>
-    <td>Ashley Turner</td>
-    <td>Kristen Nestler</td>
-    <td>James White</td>
-    <td>Naomi Yocum</td>
-    <td>Mike Dao<br>(Project Manager)</td>
+    <th>Sean Culliton</th>
+    <th>Ashley Turner</th>
+    <th>Kristen Nestler</th>
+    <th>James White</th>
+    <th>Naomi Yocum</th>
+    <th>Mike Dao<br>(Project Manager)</th>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/108320490?s=120&v=4"></td>
