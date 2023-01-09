@@ -69,29 +69,50 @@ perhaps include versions of these we are using ierails 5.7.2 etc.
  
   <tr>
     <td>
-      <a href="https://github.com/smculliton">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/seanculliton/">LinkedIn</a>
+       <a href="https://github.com/smculliton" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+      </a><br>
+        <a href="https://www.linkedin.com/in/seanculliton" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+      </a>
     </td>
     <td>
-      <a href="https://github.com/ashuhleyt">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/ashuhleyt/">LinkedIn</a>
+      <a href="https://github.com/ashuhleyt"  rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+        </a><br>
+      <a href="https://www.linkedin.com/in/ashuhleyt/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+        </a>
     </td>
     <td>
-      <a href="https://github.com/knestler">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/kristen-nestler/">LinkedIn</a>
+      <a href="https://github.com/knestler" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+        </a><br>
+      <a href="https://www.linkedin.com/in/kristen-nestler/ rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+        </a>
     </td>
     <td>
-      <a href="https://github.com/James-E-White">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/james-ed-wh/">LinkedIn</a>
+      <a href="https://github.com/James-E-White"  rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+        </a><br>
+      <a href="https://www.linkedin.com/in/james-ed-wh/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+        </a>
     </td>
     <td>
-      <a href="https://github.com/naomiyocum">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/naomiyocum/">LinkedIn</a>
+      <a href="https://github.com/naomiyocum" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+        </a><br>
+      <a href="https://www.linkedin.com/in/naomiyocum/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+        </a>
     </td>
     <td>
-      <a href="https://github.com/mikedao">GitHub</a><br>
+      <a href="https://github.com/mikedao" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+        </a><br>
     </td>
   </tr>
 </table>
-
 
