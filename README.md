@@ -30,6 +30,22 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 <br>
 [frontend repo](https://github.com/BruCycle/brucycle_fe)
 
+### Setup/Installation Guide
+- Fork this repository
+- Clone your fork
+- From the command line, install gems and set up your DB:
+  - ```bundle```
+- APIs used
+  -  Please follow the link to get your ``client id`` and ```client secret``` used later https://www.strava.com/settings/api
+  - ```bundle exec figaro install```
+  - go to ```config/application.yml```
+  - name your API keys from Strava ```strava_client_id``` and ```strava_client_secret``` respectfully
+- Run ```rails db:{create,migrate}```
+- Run the test suite with ```bundle exec rspec.```
+- To see the app in production go to:
+
+<br>
+
 ### Planning
 screenshots of db's, and our miro, clean up miro before inserting pictures and turning in final project. 
 ### Tech Stack
