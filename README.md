@@ -47,7 +47,11 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 <br>
 
 ### Planning
+Database Design
+<br>
+  ![BruCycle_DB](https://user-images.githubusercontent.com/103780823/211390915-8ba95209-28ba-4c64-8aa6-24038cb32eee.png)
 screenshots of db's, and our miro, clean up miro before inserting pictures and turning in final project. 
+
 ### Tech Stack
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 <br>
