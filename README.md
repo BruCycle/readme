@@ -53,9 +53,9 @@ Database Design
 screenshots of db's, and our miro, clean up miro before inserting pictures and turning in final project. 
 
 ### Tech Stack
-![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)v/2.7.4
+![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 <br>
-![ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=red)
+![ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=red/v/2.7.4)
 <br>
 ![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 <br>
