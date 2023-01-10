@@ -42,7 +42,7 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
   - Name your API keys from Strava ```strava_client_id``` and ```strava_client_secret``` respectfully
 - Run ```rails db:{create,migrate}```
 - Run the test suite with ```bundle exec rspec.```
-- To see the app in production go to:
+
 
 <br>
 
