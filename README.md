@@ -76,7 +76,7 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
  
 
 ### Deployment
-(https://img.shields.io/badge/heroku-000000.svg?style=for-the-badge&logo=heroku&logoColor=%23430098<a href="https://brucycle-fe.herokuapp.com/">Heroku Application</a><br>)
+<a href="https://brucycle-fe.herokuapp.com/">Heroku Application</a><br>
 
 ### Contributors
 
