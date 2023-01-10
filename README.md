@@ -38,8 +38,8 @@ Ever had one of those days where an all day brewery crawl leaves you feeling blo
 - APIs used
   -  Please follow the link to get your ``client id`` and ```client secret``` used later: https://www.strava.com/settings/api
   - ```bundle exec figaro install```
-  - go to ```config/application.yml```
-  - name your API keys from Strava ```strava_client_id``` and ```strava_client_secret``` respectfully
+  - Go to ```config/application.yml```
+  - Name your API keys from Strava ```strava_client_id``` and ```strava_client_secret``` respectfully
 - Run ```rails db:{create,migrate}```
 - Run the test suite with ```bundle exec rspec.```
 - To see the app in production go to:
