@@ -76,7 +76,7 @@ screenshots of db's, and our miro, clean up miro before inserting pictures and t
  
 
 ### Deployment
-<a href="https://brucycle-fe.herokuapp.com/">Heroku Application</a><br>
+[Brücycle Website]("https://brucycle-fe.herokuapp.com/")
 
 ### Contributors
 
