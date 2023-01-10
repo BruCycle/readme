@@ -144,6 +144,8 @@ perhaps include versions of these we are using ierails 5.7.2 etc.
     <td>
       <a href="https://github.com/mikedao" rel="nofollow noreferrer">
           <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+            <a href="https://www.linkedin.com/in/michaeldao/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn                                                         
         </a><br>
     </td>
   </tr>
